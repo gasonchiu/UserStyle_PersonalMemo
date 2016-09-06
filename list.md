@@ -1,6 +1,6 @@
 [Baidu Lite 百度轻](https://userstyles.org/styles/123858/baidu-lite)
 
-[搜索引擎跳转-文科版 跳转条浮动样式](https://userstyles.org/styles/112441/theme)
+[搜索引擎跳转-文科版 跳转条浮动样式](https://userstyles.org/styles/112441/theme) (防止它和其他CSS冲突，可以使用user.js版本： https://userstyles.org/styles/userjs/112441/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E8%B7%B3%E8%BD%AC-%E6%96%87%E7%A7%91%E7%89%88%20%E8%B7%B3%E8%BD%AC%E6%9D%A1%E6%B5%AE%E5%8A%A8%E6%A0%B7%E5%BC%8F.user.js )
 
 [替换字体的中文部分为雅黑](https://github.com/scarsty/FontChineseYahei/raw/master/css/2yahei.css)
 
