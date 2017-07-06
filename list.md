@@ -15,3 +15,5 @@
 [V2EX 仿 Material Design](https://userstyles.org/styles/118904/v2ex-material-design)
 
 (火狐限定，chrome会出现搜索框谜之消失，请改用[UserStyle for V2EX & PB3](https://userstyles.org/styles/64589/userstyle-for-v2ex-pb3))
+
+[TieBa - Maverick 【百度贴吧】](https://userstyles.org/styles/124770/tieba-maverick)
